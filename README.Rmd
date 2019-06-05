@@ -1,0 +1,13 @@
+---
+title: "README"
+author: "Ana Mamatelashvili"
+date: "18/06/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Natural Language Processing (NLP) with SpacCy in R
+
