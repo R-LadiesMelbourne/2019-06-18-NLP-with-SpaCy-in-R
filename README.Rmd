@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Natural Language Processing (NLP) with SpacCy in R
 
+Find Ana's slides [here](https://github.com/anamamatelashvili/spacyR_talk_code)
+
